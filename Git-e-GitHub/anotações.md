@@ -32,6 +32,7 @@
 ![Funcionamento Git](https://git-scm.com/figures/18333fig0901-tn.png)
 
 git . ou git -A irá adicionar todo o conteúdo untracked no controle de versão local
-git commit -m esse -m é o comando para adicionar um comentário
-após o git commit o conteúdo ficará preparado para ser enviado para nuvem com o git push
+
+git commit -m esse -m é o comando para adicionar um comentário após o git commit o conteúdo ficará preparado para ser enviado para nuvem com o git push
+
 git push origin main irá enviar todos os commits locais para a nuvem
