@@ -29,7 +29,7 @@
 
 **SHA-1** - Secure Hash Algorithm - Usado para identificar os arquivos
 
-![Funcionamento Git](C:\Users\Jordano\Documents\DevDIO\dio-desafio-github\Git-e-GitHub\ArmazenamentoGit.png)
+![Funcionamento Git](https://git-scm.com/figures/18333fig0901-tn.png)
 
 git . ou git -A irá adicionar todo o conteúdo untracked no controle de versão local
 git commit -m esse -m é o comando para adicionar um comentário
