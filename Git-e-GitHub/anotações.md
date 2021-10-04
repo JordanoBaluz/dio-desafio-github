@@ -29,6 +29,8 @@
 
 **SHA-1** - Secure Hash Algorithm - Usado para identificar os arquivos
 
+![Funcionamento Git](C:\Users\Jordano\Documents\DevDIO\dio-desafio-github\Git-e-GitHub\ArmazenamentoGit.png)
+
 git . ou git -A irá adicionar todo o conteúdo untracked no controle de versão local
 git commit -m esse -m é o comando para adicionar um comentário
 após o git commit o conteúdo ficará preparado para ser enviado para nuvem com o git push
